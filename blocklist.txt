@@ -1,5 +1,4 @@
 (^|\.)contentabc\.com$
-3gporn.bizz
 api.mixpanel.com
 cdn.m-pathy.com
 cdn.netpoint-media.de
@@ -35,6 +34,5 @@ tags.bluekai.com
 trk.klclick3.com
 vz-cdn.contentabc.com
 wv.inner-active.mobi
-www.3gporn.biz
 www.coin-hive.com
 www.plista.com

@@ -12,3 +12,7 @@ Domains for blocking diagnostics and telemetry.
 ## epic-online-services
 
 Domains for blocking EOS.
+
+## porn
+
+Domains for blocking porn (ads).

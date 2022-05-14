@@ -1,12 +1,5 @@
 (^|\.)contentabc\.com$
 3gporn.bizz
-ad.pandora.tv
-ads.pandora.tv.net
-ads.themoneytizer.com
-ads.trafficjunky.net
-adsassets.waze.com
-adserver.pandora.com
-advertising.amazon.de
 api.mixpanel.com
 cdn.m-pathy.com
 cdn.netpoint-media.de
@@ -24,7 +17,6 @@ mobile-data.onetrust.io
 n-cdn.areyouahuman.com
 phncdn.com
 plista.com
-pubads.g.doubleclick.net
 r1---sn-vgqsen7z.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com
 r17---sn-vgqsenes.googlevideo.com

@@ -1,0 +1,8 @@
+ad.pandora.tv
+ads.pandora.tv.net
+ads.themoneytizer.com
+ads.trafficjunky.net
+adsassets.waze.com
+adserver.pandora.com
+advertising.amazon.de
+pubads.g.doubleclick.net

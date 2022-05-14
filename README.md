@@ -5,6 +5,10 @@ Blocklists for Pi.hole
 
 Domains for blocking ads.
 
+## crypto
+
+Domains for blocking crypto miners.
+
 ## diagnostics
 
 Domains for blocking diagnostics and telemetry.

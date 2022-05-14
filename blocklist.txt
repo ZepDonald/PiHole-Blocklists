@@ -5,7 +5,6 @@ cdn.netpoint-media.de
 cdn2.inner-active.mobi
 click-de.plista.com
 click.plista.com
-coin-hive.com
 contentabc.com
 doublepimp.com
 farm-de.plista.com
@@ -34,5 +33,4 @@ tags.bluekai.com
 trk.klclick3.com
 vz-cdn.contentabc.com
 wv.inner-active.mobi
-www.coin-hive.com
 www.plista.com

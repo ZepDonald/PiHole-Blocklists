@@ -5,6 +5,10 @@ Blocklists for Pi.hole
 
 Domains for blocking ads.
 
+## diagnostics
+
+Domains for blocking diagnostics and telemetry.
+
 ## epic-online-services
 
 Domains for blocking EOS.

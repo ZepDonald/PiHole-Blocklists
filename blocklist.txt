@@ -8,7 +8,6 @@ click-de.plista.com
 click.plista.com
 coin-hive.com
 contentabc.com
-diagnostics.meethue.com
 doublepimp.com
 farm-de.plista.com
 histats.com
@@ -35,7 +34,6 @@ stats.pandora.com
 tags.bluekai.com
 trk.klclick3.com
 vz-cdn.contentabc.com
-watson.telemetry.microsoft.com
 wv.inner-active.mobi
 www.3gporn.biz
 www.coin-hive.com

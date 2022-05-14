@@ -1,2 +1,11 @@
 watson.telemetry.microsoft.com
 diagnostics.meethue.com
+api.mixpanel.com
+cdn.m-pathy.com
+histats.com
+s10.histats.com
+sb.scorecardresearch.com
+static.wlct-one.de
+stats.pandora.com
+mobile-data.onetrust.io
+n-cdn.areyouahuman.com

@@ -17,6 +17,10 @@ Domains for blocking diagnostics and telemetry.
 
 Domains for blocking EOS.
 
+## google
+
+Domains for blocking Google ads and telemetry.
+
 ## porn
 
 Domains for blocking porn (ads).

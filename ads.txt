@@ -25,3 +25,4 @@ tags.bluekai.com
 trk.klclick3.com
 spade.twitch.com
 cdn.netpoint-media.de
+sdk-assets.teads.tv

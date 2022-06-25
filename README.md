@@ -9,6 +9,10 @@ Domains for blocking ads.
 
 Domains for blocking crypto miners.
 
+## dating
+
+Domains for blocking ads, telemetry and other annoyances from a few dating apps.
+
 ## diagnostics
 
 Domains for blocking diagnostics and telemetry.

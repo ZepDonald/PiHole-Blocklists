@@ -25,6 +25,10 @@ Domains for blocking Facebook ads, telemetry and other annoyances.
 
 Domains for blocking Google ads and telemetry.
 
+## messenger
+
+Domains for blocking ads, telemetry and other annoyances from a few messengers.
+
 ## porn
 
 Domains for blocking porn (ads).

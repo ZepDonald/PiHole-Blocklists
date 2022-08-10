@@ -10,3 +10,5 @@ stats.pandora.com
 mobile-data.onetrust.io
 n-cdn.areyouahuman.com
 internal.faceunity.com
+mcg-frontdoor.microsoftcasualgames.com
+obs.cheqzone.com

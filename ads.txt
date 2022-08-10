@@ -27,3 +27,4 @@ spade.twitch.com
 cdn.netpoint-media.de
 sdk-assets.teads.tv
 events.ads.vungle.com
+b1t-chidc2.zemanta.com

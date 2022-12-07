@@ -12,3 +12,4 @@ n-cdn.areyouahuman.com
 internal.faceunity.com
 mcg-frontdoor.microsoftcasualgames.com
 obs.cheqzone.com
+stats.setapp.com

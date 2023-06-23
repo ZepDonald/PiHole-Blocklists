@@ -72,3 +72,4 @@ ms4.applvn.com
 unityads.unity3d.com
 prod-mediate-events.applovin.com
 et-w-inmobi-comtm.trafficmanager.net
+ads.assemblyexchange.com

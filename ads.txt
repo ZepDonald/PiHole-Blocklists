@@ -68,3 +68,4 @@ static.vungle.com
 privacy.vungle.com
 event-log-us-east-1a.prod.vungle.com
 event-log-us-east-1c.prod.vungle.com
+ms4.applvn.com

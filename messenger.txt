@@ -6,3 +6,4 @@ video-live.gateway.kik-live.com
 video-live-kik.meetme.com
 tmg-gateway-euw1.meetme.com
 auth.gateway.kik-live.com
+api.gateway.kik-live.com

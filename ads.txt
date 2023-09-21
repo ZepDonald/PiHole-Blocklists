@@ -12,7 +12,6 @@ farm-de.plista.com
 plista.com
 static-de.plista.com
 www.plista.com
-(^|\.)contentabc\.com$
 contentabc.com
 hw-cdn.contentabc.com
 vz-cdn.contentabc.com
@@ -73,3 +72,4 @@ unityads.unity3d.com
 prod-mediate-events.applovin.com
 et-w-inmobi-comtm.trafficmanager.net
 ads.assemblyexchange.com
+||contentabc.com^

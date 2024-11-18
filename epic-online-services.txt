@@ -26,3 +26,7 @@ ns-1720.awsdns-23.co.uk
 .ns-1720.awsdns-23.co.uk
 ns-1913.awsdns-47.co.uk
 .ns-1913.awsdns-47.co.uk
+(\.|^)epicgames\.com$
+(\.|^)easyanticheat\.net$
+(\.|^)easy\.ac$
+(\.|^)eac-cdn\.com$

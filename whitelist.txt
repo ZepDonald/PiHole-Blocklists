@@ -1,0 +1,10 @@
+# Exact whitelist
+chaturbate.com # Needed for Chaturbate
+stan.xing.com # Needed for Xing
+firstclass.tripsy.app # Needed for Tripsy
+updates.cdn-apple.com # Needed for Apple Updates
+lovoo.com # Needed for Lovoo
+app-lovoo.com # Needed for Lovoo
+
+# Regex whitelist
+(\.|^)mzstatic\.com$ # Needed for Apple Services

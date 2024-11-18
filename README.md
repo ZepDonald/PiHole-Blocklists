@@ -36,3 +36,7 @@ Domains for blocking ads, telemetry and other annoyances from a few messengers.
 ## porn
 
 Domains for blocking porn (ads).
+
+## whitelist
+
+Domains for whitelisting, this must be done manually, as it is not possible to have remote whitelists.

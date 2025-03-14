@@ -8,5 +8,5 @@ app-lovoo.com # Needed for Lovoo
 cdn.flightconnections.com # Needed for App Flight Connections
 
 # Regex whitelist
-||(\.|^)mzstatic\.com$ # Needed for Apple Services
-||(\.|^)onthatass\.com$ #Needed for On That Ass
+||mzstatic.com^ # Needed for Apple Services
+||onthatass.com^ #Needed for On That Ass

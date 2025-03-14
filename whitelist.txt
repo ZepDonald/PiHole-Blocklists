@@ -7,4 +7,4 @@ lovoo.com # Needed for Lovoo
 app-lovoo.com # Needed for Lovoo
 
 # Regex whitelist
-(\.|^)mzstatic\.com$ # Needed for Apple Services
+||(\.|^)mzstatic\.com$ # Needed for Apple Services

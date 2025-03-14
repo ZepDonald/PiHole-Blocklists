@@ -1,0 +1,3 @@
+# Regex whitelist
+||mzstatic.com^ # Needed for Apple Services
+||onthatass.com^ #Needed for On That Ass

@@ -14,3 +14,7 @@ mcg-frontdoor.microsoftcasualgames.com
 obs.cheqzone.com
 stats.setapp.com
 collector.nanoleaf.me
+analytics-ios-tcp.mtgglobals.com
+||dlsdk.appsflyersdk.com^
+||appsflyersdk.com^
+sdkc.vervegroupinc.net

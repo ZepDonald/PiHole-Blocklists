@@ -1,3 +1,11 @@
 tmg-stream.lovoo.com
 video-talent-assets.lovoo.com
 video-assets.lovoo.com
+video-live.lovoo.com
+assets.meetmecdna.com
+report-europe.agora.io
+ap-europe.agora.io
+ap-tds-europe.agora.io
+ap-tls-europe.agora.io
+ap-tds-tls-europe.agora.io
+telemetry.grindr.mobi
